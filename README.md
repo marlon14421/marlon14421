@@ -13,9 +13,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a panel for a Service and a FiveM Server Template**
+ 🔭 I’m currently working on **Hydra Service**
  
- 🌱 I’m currently learning **C#, API**
+ 🌱 I’m currently learning **Java, API**
 
 💬 Ask me about **Node.js, Lua, Discord Bots, FiveM... or anything [here](https://github.com/arkannk/marlon/issues)**
 
