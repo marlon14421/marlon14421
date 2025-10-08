@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!;I'm+Marlon" alt="Typing SVG" /></a>
 </h1>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=arkannk.arkannk&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=marlon14421.marlon14421&"  />
 </div>
  <hr/>
 <h3 align="center">Just a developer from Germany</h3>
@@ -80,8 +80,8 @@
 <h2 align="center">Stats</h2>
 <br/>
  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arkannk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arkannk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=marlon14421&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marlon14421&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <br/>
 
