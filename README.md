@@ -13,11 +13,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Hydra Service**
+ 🔭 I’m currently working on **[Hydra Service](https://discord.gg/WgQQqeZDX9)**
  
  🌱 I’m currently learning **Java, API**
 
-💬 Ask me about **Node.js, Lua, Discord Bots, FiveM... or anything [here](https://github.com/arkannk/marlon/issues)**
+💬 Ask me about **Node.js, Lua, Discord Bots, FiveM... or anything [here](https://github.com/marlon14421/marlon/issues)**
 
  </div>
  <h2 align="center">Contact</h2>
