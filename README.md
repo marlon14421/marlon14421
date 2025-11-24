@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>FiveM & GMOD Developer | Discord Bot Dev | Web Development | Computer Science Enthusiast</b>
+  <b>App Developer | Discord Bot Dev | Web Development | Computer Science Enthusiast</b>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 🎮 Passionate about game modding (FiveM, GMOD) & Discord Bots
 - 🌐 Web developer (Full Stack: Frontend & Backend)
 - 💡 Computer Science enthusiast (algorithms, data structures, OOP/design patterns)
-- 📚 Currently learning: C++, C#, .NET & Java
+- 🔰 App Development: C#, Axaml, C++
 - 🤝 Open to new projects, collaboration & tech exchange
 
 ---
@@ -46,7 +46,8 @@
 
 - **FiveM scripts** (Lua, JavaScript, txAdmin)
 - **GMOD Addons**
-- **Discord Bots** (Node.js, Discord.js)
+- **GMOD Maps**
+- **Discord Bots** (Node.js, Discord.js, Typescript)
 - **Websites** (React, HTML/CSS/JS, TailwindCSS)
 - **.NET & Java Apps** (currently learning)
 - **Computer Science topics** (algorithms, data structures, OOP)
