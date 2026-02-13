@@ -8,17 +8,17 @@
 
 ---
 
-## 👨‍💻 &nbsp;About Me
+## About Me
 
-- 🎮 Passionate about game modding (FiveM, GMOD) & Discord Bots
-- 🌐 Web developer (Full Stack: Frontend & Backend)
-- 💡 Computer Science enthusiast (algorithms, data structures, OOP/design patterns)
-- 🔰 App Development: C#, Axaml, C++
-- 🤝 Open to new projects, collaboration & tech exchange
+- Passionate about game modding (FiveM, GMOD) & Discord Bots
+- Web developer (Full Stack: Frontend & Backend)
+- Computer Science enthusiast (algorithms, data structures, OOP/design patterns)
+- App Development: C#, Axaml, C++
+- Open to new projects, collaboration & tech exchange
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white"/>
@@ -42,31 +42,7 @@
 
 ---
 
-## 🚧 Projects & Focus Areas
-
-- **FiveM scripts** (Lua, JavaScript, txAdmin)
-- **GMOD Addons**
-- **GMOD Maps**
-- **Discord Bots** (Node.js, Discord.js, Typescript)
-- **Websites** (React, HTML/CSS/JS, TailwindCSS)
-- **.NET & Java Apps** (currently learning)
-- **Computer Science topics** (algorithms, data structures, OOP)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marlon14421&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marlon14421&theme=github-dark&hide_border=true" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlon14421&layout=compact&theme=github_dark&hide_border=true" height="115"/>
-</p>
-
----
-
-## 📫 Contact & Socials
+## Contact & Socials
 
 <p align="center">
   <a href="https://discord.com/users/1331989317723226124">
