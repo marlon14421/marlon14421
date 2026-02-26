@@ -48,11 +48,14 @@
   <p align="center">
     <img src="https://cdn.discordapp.com/attachments/1476564960803815655/1476707458947743754/m-service-banner.png?ex=69a21a7e&is=69a0c8fe&hm=d68867dcb0290660d35a396876012b540b356fbb50a65e183f45a37355f710bf&"/>
   </p>
-  <a align="center" href="">
-    <img align="center" src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white"/>
   </a>
-  <a align="center" href="">
-    <img align="center" src="https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram"/>
+  <a href="">
+    <img src="https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram"/>
   </a>
 </p>
 
