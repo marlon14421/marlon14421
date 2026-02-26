@@ -46,7 +46,7 @@
 
 <p align="center">
   <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/1476564960803815655/1476706706942857298/m-service-banner.png?ex=69a219ca&is=69a0c84a&hm=6fec51ce468441f932248f56b0e01ab95ea1a90dd5125bc5c845aaf5e5970d23&"/>
+    <img src="https://cdn.discordapp.com/attachments/1476564960803815655/1476707458947743754/m-service-banner.png?ex=69a21a7e&is=69a0c8fe&hm=d68867dcb0290660d35a396876012b540b356fbb50a65e183f45a37355f710bf&"/>
   </p>
   <a href="">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white"/>
