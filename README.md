@@ -46,16 +46,13 @@
 
 <p align="center">
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:33A979,100:196B4B&height=80&section=footer"/>
+    <img src="https://cdn.discordapp.com/attachments/1476564960803815655/1476706706942857298/m-service-banner.png?ex=69a219ca&is=69a0c84a&hm=6fec51ce468441f932248f56b0e01ab95ea1a90dd5125bc5c845aaf5e5970d23&"/>
   </p>
-  <a href="https://discord.com/users/1331989317723226124">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/31421252">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/arkannk1">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="">
+    <img src="https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram"/>
   </a>
 </p>
 
@@ -64,11 +61,14 @@
 ## Contact & Socials
 
 <p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://discord.com/users/1331989317723226124">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white"/>
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram"/>
+  <a href="https://stackoverflow.com/users/31421252">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?logo=stackoverflow&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/arkannk1">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&logoColor=white"/>
   </a>
 </p>
 
