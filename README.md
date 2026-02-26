@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:373B44,100:4286f4&height=140&section=header&text=Hi!%20I'm%20Marlon%20&fontSize=38&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:33A979,100:196B4B&height=140&section=header&text=Hi!%20I'm%20Marlon%20&fontSize=38&fontColor=fff"/>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ## About Me
 
 - Passionate about game modding (FiveM, GMOD) & Discord Bots
-- Web developer (Full Stack: Frontend & Backend)
+- Web developer (Backend)
 - Computer Science enthusiast (algorithms, data structures, OOP/design patterns)
 - App Development: C#, Axaml, C++
 - Open to new projects, collaboration & tech exchange
@@ -59,5 +59,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4286f4,100:373B44&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:33A979,100:196B4B&height=80&section=footer"/>
 </p>
