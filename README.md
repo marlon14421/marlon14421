@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:33A979,100:196B4B&height=140&section=header&text=Hi!%20I'm%20Marlon%20&fontSize=38&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:404040,100:161616&height=140&section=header&text=Hi!%20I'm%20Marlon%20&fontSize=38&fontColor=fff"/>
 </p>
 
 <p align="center">
@@ -78,5 +78,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:33A979,100:196B4B&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:404040,100:161616&height=80&section=footer"/>
 </p>
