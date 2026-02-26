@@ -42,9 +42,12 @@
 
 ---
 
-## Contact & Socials
+## M-Service
 
 <p align="center">
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:33A979,100:196B4B&height=80&section=footer"/>
+  </p>
   <a href="https://discord.com/users/1331989317723226124">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
@@ -53,6 +56,19 @@
   </a>
   <a href="https://twitter.com/arkannk1">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## Contact & Socials
+
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram"/>
   </a>
 </p>
 
