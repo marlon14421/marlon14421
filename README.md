@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>App Developer | Discord Bot Dev | Web Development | Computer Science Enthusiast</b>
+  <b>App Developer | Web Development | Cheat Developer</b>
 </p>
 
 ---
@@ -13,6 +13,7 @@
 - Passionate about game modding (FiveM, GMOD) & Discord Bots
 - Web developer (Backend)
 - Computer Science enthusiast (algorithms, data structures, OOP/design patterns)
+- Cheat Developer like Garrys Mod and CS2 and more
 - App Development: C#, Axaml, C++
 - Open to new projects, collaboration & tech exchange
 
