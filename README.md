@@ -14,7 +14,7 @@
 - Web developer (Backend)
 - Computer Science enthusiast (algorithms, data structures, OOP/design patterns)
 - Cheat Developer like Garrys Mod and CS2 and more
-- App Development: C#, Axaml, C++
+- App Development: C#, Axaml, C++, Swift
 - Open to new projects, collaboration & tech exchange
 
 ---
@@ -73,6 +73,7 @@
   <p align="center">
     <img src="https://cdn.discordapp.com/attachments/1476564960803815655/1476707458947743754/m-service-banner.png?ex=69a21a7e&is=69a0c8fe&hm=d68867dcb0290660d35a396876012b540b356fbb50a65e183f45a37355f710bf&"/>
   </p>
+  <p align="center">Soon</p>
 </p>
 
 <p align="center">
