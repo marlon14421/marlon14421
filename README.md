@@ -13,7 +13,7 @@
 - Passionate about game modding
 - I love destroying code.
 - Web developer
-- I Love TypeScript
+- Love TypeScript
 - Computer Science enthusiast (algorithms, data structures, OOP/design patterns)
 - App Development
 
