@@ -3,18 +3,19 @@
 </p>
 
 <p align="center">
-  <b>App Developer | Web Development | Cheat Developer</b>
+  <b>Software Developer | System administration</b>
 </p>
 
 ---
 
 <h2 align="center">About Me</h2>
 
-- Passionate about game modding (FiveM, GMOD) & Discord Bots
+- Passionate about game modding
+- I love destroying code.
 - Web developer
+- I Love TypeScript
 - Computer Science enthusiast (algorithms, data structures, OOP/design patterns)
-- App Development: C#, Axaml, C++, Swift
-- Open to new projects, collaboration & tech exchange
+- App Development
 
 ---
 
