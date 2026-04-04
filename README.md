@@ -14,7 +14,7 @@
 - I love destroying code.
 - Web developer
 - Love TypeScript
-- Computer Science enthusiast (algorithms, data structures, OOP/design patterns)
+- System administrator
 - App Development
 
 ---
