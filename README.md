@@ -110,24 +110,6 @@
 
 ---
 
-<p align="center">
-  <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/1476564960803815655/1476707458947743754/m-service-banner.png?ex=69b2953e&is=69b143be&hm=4caefb861f1b60af896cc1ed4373731127bde89da4d2ff3d3608028b95fb275b&"/>
-  </p>
-  <p align="center">Soon</p>
-</p>
-
-<p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram"/>
-  </a>
-</p>
-
----
-
 <h2 align="center">Contact & Socials</h2>
 <p align="center">
   <a href="https://discord.com/users/1331989317723226124">
