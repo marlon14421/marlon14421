@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Software Developer | System administration</b>
+  <b>Software Developer | System administration | Cybersecurity</b>
 </p>
 
 ---
