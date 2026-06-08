@@ -112,15 +112,15 @@
 
 <h2 align="center">Contact & Socials</h2>
 <p align="center">
-  <a href="https://discord.com/users/1331989317723226124">
-    <img src="https://img.shields.io/badge/Discord-Add%20Me-5865F2?logo=discord&logoColor=white"/>
-  </a>
   <a href="https://stackoverflow.com/users/31421252">
     <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?logo=stackoverflow&logoColor=white"/>
   </a>
   <a href="https://twitter.com/arkannk1">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&logoColor=white"/>
   </a>
+</p>
+<p align="center">
+<a href="https://github.com/the-snesler/discord-github-preview"><img src="https://dsc-readme.tsuni.dev/api/user/1331989317723226124?theme=catppuccinFrappe&width=392" alt="ml1d_'s Discord status" /></a>
 </p>
 
 ---
