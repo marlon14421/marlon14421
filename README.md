@@ -126,14 +126,20 @@
 ---
 
 <h2 align="center">Contact & Socials</h2>
-<p align="center">
-  <a href="https://stackoverflow.com/users/31421252">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?logo=stackoverflow&logoColor=white"/>
+<div data-importer="socials" align="center">
+  <a href="https://dev.to/marlon14421" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
   </a>
-  <a href="https://twitter.com/arkannk1">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&logoColor=white"/>
+  <a href="https://discord.com/channels/1331989317723226124" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-</p>
+  <a href="https://stackoverflow.com/users/31421252/marlon" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://x.com/marl0ncc" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
 ---
 
