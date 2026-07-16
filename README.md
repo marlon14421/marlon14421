@@ -1,22 +1,23 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=140&color=0:404040,100:161616&text=Hi%20I'm%20Marlon&section=header&reversal=false&descAlign=83&fontAlign=50&animation=twinkling&fontAlignY=50&textBg=false&fontColor=fff&fontSize=38"/>
-</p>
+<div data-importer="border" align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
+</div>
 
-<p align="center">
-  <b>Software Developer | System administration | Cybersecurity</b>
-</p>
+<div data-importer="border" align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&reversal=false&text=Hi%20I'm%20Marlon&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark"  />
+</div>
+
+<h3 data-importer="text" align="center">Software Developer | Web Developer | Cybersecurity | Infrastructure</h3>
 
 ---
 
 <h2 align="center">About Me</h2>
 
-- Passionate about game modding
-- I love destroying code.
 - Full Stack developer
 - Web developer
 - Love TypeScript
 - System administrator
 - App Development
+- Windows, MacOs, Linux Development
 
 ---
 
@@ -80,6 +81,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
+
 </div>
 
 <h2 align="center">Tools</h2>
@@ -140,8 +148,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=88&color=0:404040,100:161616&section=footer&reversal=false&descAlign=83&fontAlign=50&animation=twinkling&fontAlignY=50&textBg=false&fontColor=fff&fontSize=38"/>
